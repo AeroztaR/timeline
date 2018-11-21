@@ -53,7 +53,7 @@ input, select, button {outline: none;}
     margin: 31.5px 20.5px 31px 0;
 }
 
-.timeline-icons-sprite {background: url('/img/timeline-icons-sprite.png') no-repeat top left;} 
+.timeline-icons-sprite {background: url('../img/timeline-icons-sprite.png') no-repeat top left;} 
 
 .timeline-icons-sprite.employee {
     background-position: 0px 0px; 
